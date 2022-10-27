@@ -1,0 +1,8 @@
+*.pyc
+*__pycache__*
+.py[cod]
+*.ipynb
+*.ipynb_checkpoints*
+*.DS_Store*
+
+

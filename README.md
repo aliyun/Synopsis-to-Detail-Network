@@ -1,7 +1,7 @@
 # Delving into Details: Synopsis-to-Detail Networks for Video Recognition (S2DNet)
 
 This repo is the official Pytorch implementation of our paper:
-> [Delving into Details: Synopsis-to-Detail Networks for Video Recognition]()  
+> [Delving into Details: Synopsis-to-Detail Networks for Video Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640259.pdf)  
 > Shuxian Liang, Xu Shen, Jianqiang Huang, Xian-Sheng Hua   
 > ECCV 2022 Oral   
 
